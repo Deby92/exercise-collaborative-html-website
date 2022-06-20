@@ -2,6 +2,27 @@ body{
     background: #BDBDBD;
 }
 
+.info{
+    padding-left: 300px;
+}
+
+.info_2{
+    padding-right: 300px;
+}
+
+.picture_1{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.picture_2{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin-left: 310px;
+}
+
 .tagline{
     background-image: url('../img/bg.jpg');
     background-size: cover;
